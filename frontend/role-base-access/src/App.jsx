@@ -2,10 +2,10 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Login from "./pages/Login";
 
-import Dashboard from "./pages/Admin/Dashboard";
+import Dashboard from "./pages/admin/Dashboard";
 import UserManagement from "./pages/admin/UserManagment";
-import TaskMonitoring from "./pages/Admin/TaskMonitoring";
-import ActivityLogs from "./pages/Admin/ActivityLogs";
+import TaskMonitoring from "./pages/admin/TaskMonitoring";
+import ActivityLogs from "./pages/admin/ActivityLogs";
 import Analytics from "./pages/Admin/Analytics";
 
 import UserDashboard from "./pages/Users/UserDashboard";
